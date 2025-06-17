@@ -106,12 +106,4 @@ Calculates:
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License. Feel free to fork, modify, and use it for educational or commercial purposes.
-
----
-
-## ✍️ Author
-
-Made with ❤️ by [Your Name]
